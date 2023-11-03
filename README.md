@@ -36,3 +36,5 @@ after installation and you should see numbered folders.
 While running, check your chosen Desktop Environment's tray area for a running icon (sometimes this glitches out and is blank, so look for a blank, red cross, missing symbol, etc) and it should provide you with the IP/Port to open mudfish config in your browser, for me it was 127.0.0.1:8383 
 You can add the games or programs you wish to use by "Equipping them as items"
 You can modify the connection methods by clicking "Manage Item" next to your program, I recommend changing Node > Advanced Mode and setting the first node to the closest to you, and the second to the one closest to the service you wish to use. For example, when playing FFXIV ( Final Fantasy XIV ) on a Japanese Data Centre from Australia, you would set the first one to Sydney and the second one to Tokyo.
+
+https://mudfish.net/server/status You can check status here.
